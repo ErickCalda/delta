@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/mimi/Escritorio/volumen/media/videos/esfera/720p30/partial_movie_files/DiferencialEsfera/1987512680_2603687241_223132457.mp4'
+file 'file:/home/mimi/Escritorio/volumen/media/videos/esfera/720p30/partial_movie_files/DiferencialEsfera/2538612922_2087747095_3439391380.mp4'
+file 'file:/home/mimi/Escritorio/volumen/media/videos/esfera/720p30/partial_movie_files/DiferencialEsfera/2538612922_2526478696_442320002.mp4'
+file 'file:/home/mimi/Escritorio/volumen/media/videos/esfera/720p30/partial_movie_files/DiferencialEsfera/2538612922_339530372_918468982.mp4'
+file 'file:/home/mimi/Escritorio/volumen/media/videos/esfera/720p30/partial_movie_files/DiferencialEsfera/2538612922_1581445992_1642544504.mp4'
+file 'file:/home/mimi/Escritorio/volumen/media/videos/esfera/720p30/partial_movie_files/DiferencialEsfera/2538612922_4022321854_2678494866.mp4'
+file 'file:/home/mimi/Escritorio/volumen/media/videos/esfera/720p30/partial_movie_files/DiferencialEsfera/2538612922_2365769555_1020269137.mp4'
+file 'file:/home/mimi/Escritorio/volumen/media/videos/esfera/720p30/partial_movie_files/DiferencialEsfera/2538612922_1947004900_432914507.mp4'
+file 'file:/home/mimi/Escritorio/volumen/media/videos/esfera/720p30/partial_movie_files/DiferencialEsfera/2538612922_1967181856_562680759.mp4'
+file 'file:/home/mimi/Escritorio/volumen/media/videos/esfera/720p30/partial_movie_files/DiferencialEsfera/2538612922_2364698678_775569531.mp4'
